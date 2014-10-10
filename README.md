@@ -1,0 +1,1 @@
+This project was getting used to the more complex things one can do in the openScad coding interface. I did this mainly with for loops, so I could made a very complex structure without many lines of code. I used for loops for the main tower spiral, and for the smaller towers surrouding the base of the structure.
